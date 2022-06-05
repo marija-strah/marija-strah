@@ -16,11 +16,11 @@ My tech stack currently consists of:
 
 Projects:
 
-  1. <a href="https://master-melody.netlify.app">Master Melody<a/> - Full-stack React web application
+  1. <a href="https://master-melody.netlify.app" target="_blank">Master Melody<a/> - Full-stack React web application
 
-  2. <a href="http://replay-me.herokuapp.com/">Replay Me</a> - Full-stack JavaScript web app with Node and Express
+  2. <a href="http://replay-me.herokuapp.com/" target="_blank">Replay Me</a> - Full-stack JavaScript web app with Node and Express
 
-  3. <a href="https://github.com/marija-strah/deadline-dodger">Deadline Dodger</a> - JavaScript game
+  3. <a href="https://github.com/marija-strah/deadline-dodger" target="_blank">Deadline Dodger</a> - JavaScript game
 
 
 📫 Let's get in touch:
