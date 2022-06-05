@@ -19,14 +19,14 @@ Projects:
   1. <a href="https://master-melody.netlify.app">Master Melody<a/> - Full-stack React web application
 
   2. <a href="http://replay-me.herokuapp.com/">Replay Me</a> - Full-stack JavaScript web app with Node and Express
-URL: replay-me.herokuapp.com
 
-  3. <a href="marija.strah.github.io/deadline-dodger">Deadline Dodger</a> - JavaScript game
+  3. <a href="https://github.com/marija-strah/deadline-dodger">Deadline Dodger</a> - JavaScript game
 
 
 📫 Let's get in touch:
 
 <b>Linkedin:</b> https://www.linkedin.com/in/marija-strahinjic/
+<br/>
 <b>Email:</b> marija.strahinjic@hotmail.com
   
 <!--
