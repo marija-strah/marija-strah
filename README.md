@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Marija and I'm a full stack MERN developer.
 
+Welcome to my portfolio!
+
 -------
 After completing an intense 9-week coding bootcamp at Ironhack, I am looking forward to new working opportunities as a web developer.
 
