@@ -7,7 +7,7 @@
 -------
 After completing an intensive 9-week coding bootcamp at Ironhack, I am looking forward to new working opportunities as a web developer.
 
-My tech stack <b>currently</b> consists of:
+<h2>My tech stack <b>currently</b> consists of:</h2>
 
 <img align="left" alt="vss" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -23,20 +23,7 @@ My tech stack <b>currently</b> consists of:
 <br />
 <br />
      
-
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
-- HTML5
-- CSS3
-- Bootstrap
-- Git
-- GitHub
-- Agile methodology and stand-up-based feedback
-
-Projects:
+<h2>Here are bigger projects I've worked on:</h2>
 
   1. <a href="https://master-melody.netlify.app" target="_blank">Master Melody<a/> - Full-stack React web application
 
