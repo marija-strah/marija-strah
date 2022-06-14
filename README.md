@@ -23,7 +23,7 @@ After completing an intensive 9-week coding bootcamp at Ironhack, I am looking f
 <br />
 <br />
      
-<h2>Here are bigger projects I've worked on:</h2>
+<h2>🛠️ Here are bigger projects I've worked on:</h2>
 
   1. <a href="https://master-melody.netlify.app" target="_blank">Master Melody<a/> - Full-stack React web application
 
