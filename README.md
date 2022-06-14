@@ -35,7 +35,6 @@ After completing an intensive 9-week coding bootcamp at Ironhack, I am looking f
 <h2>📫 Let's get in touch:</h2>
 
 - <b>Linkedin:</b> https://www.linkedin.com/in/marija-strahinjic/
-<br/>
 - <b>Email:</b> marija.strahinjic@hotmail.com
   
 <!--
