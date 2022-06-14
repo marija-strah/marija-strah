@@ -36,6 +36,7 @@ After completing an intensive 9-week coding bootcamp at Ironhack, I am looking f
 <img align="left" alt="marija-strah-stats" src="https://github-readme-stats.vercel.app/api?username=marija-strah"/>
 
 <br />
+<br />
      
 <h2>📫 Let's get in touch:</h2>
 
