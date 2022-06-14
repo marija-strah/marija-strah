@@ -7,7 +7,7 @@
 -------
 After completing an intensive 9-week coding bootcamp at Ironhack, I am looking forward to new working opportunities as a web developer.
 
-https://github-readme-stats.vercel.app/api?username=marija-strah
+<img align="left" alt="marija-strah-stats" src="https://github-readme-stats.vercel.app/api?username=marija-strah"/>
 
 <h2>My tech stack <b>currently</b> consists of:</h2>
 
