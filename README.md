@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h1>Hi there 👋</h1>
+
 My name is Marija and I'm a full stack MERN developer.
 
 Welcome to my portfolio! 🚀
@@ -15,6 +16,10 @@ My tech stack currently consists of:
 - MongoDB
 - HTML5
 - CSS3
+- Bootstrap
+- Git
+- GitHub
+- Agile methodology and stand-up-based feedback
 
 Projects:
 
@@ -25,7 +30,7 @@ Projects:
   3. <a href="https://github.com/marija-strah/deadline-dodger" target="_blank">Deadline Dodger</a> - JavaScript game
 
 
-📫 Let's get in touch:
+<h2>📫 Let's get in touch:</h2>
 
 <b>Linkedin:</b> https://www.linkedin.com/in/marija-strahinjic/
 <br/>
