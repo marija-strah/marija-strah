@@ -7,7 +7,7 @@
 -------
 After completing an intensive 9-week coding bootcamp at Ironhack, I am looking forward to new working opportunities as a web developer.
 
-✨ <h2>My Website</h2> ✨
+<h2>✨ My Website ✨</h2>
 https://marija-strah.github.io/portfolio/
 
 <h2>My tech stack <b>currently</b> consists of:</h2>
