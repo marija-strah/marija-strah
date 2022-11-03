@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋</h1>
 
-<h2>My name is Marija and I'm a full stack MERN developer.</h2>
+<h2>My name is Marija and I'm a junior web developer.</h2>
 
 <h3>Welcome to my portfolio! 🚀</h3>
 
